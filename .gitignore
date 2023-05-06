@@ -23,7 +23,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/app/node_modules
+/src/node_modules
 # testing
 /coverage
 
